@@ -1,6 +1,7 @@
 # TodoAppMobile
 
 TodoAppMobile is a React Native application designed to manage daily tasks efficiently. This mobile application allows users to add, delete, and view tasks with a simple and intuitive interface.
+
 This is a demo to familiarize myself with making mobile react applicatinos.
 
 ## Features
@@ -16,7 +17,8 @@ Follow these instructions to set up the project on your local machine for develo
 
 ### Prerequisites
 
-Before you begin, ensure you have the latest version of Node.js and npm installed on your machine. You also need to install Expo CLI to run the project. (this app was created with **npx create-expo-app** )
+Before you begin, ensure you have the latest version of Node.js and npm installed on your machine. You also need to install Expo go on your mobile device or use a phone emulator to run the project. 
+(this app was created with **npx create-expo-app** )
 
 ### Installation
 
